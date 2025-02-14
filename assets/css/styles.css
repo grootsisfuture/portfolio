@@ -196,9 +196,9 @@ img {
 }
 
 .home__img {
-  position: center;
+  position: absolute;
   right: 0;
-  bottom: 0;
+  bottom: 10%;
   width: 260px;
 }
 .home__blob {
