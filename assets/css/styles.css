@@ -197,15 +197,15 @@ img {
 
 .home__img {
   position: absolute;
-  right: 0;
+  right: 10%;
   bottom: 0;
-  width: 60%;
+  width: 260px;
 }
 .home__blob {
   fill: var(--first-color);
 }
 .home__blob-img {
-  width: 200px;
+  width: 360px;
 }
 
 /*BUTTONS*/
