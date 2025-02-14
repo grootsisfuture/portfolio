@@ -359,7 +359,7 @@ img {
   }
   .home__img {
     width: 400px;
-    bottom: 20%;
+    bottom: 40%;
   }
   .about__container {
     padding-top: 2rem;
@@ -374,7 +374,7 @@ img {
     margin-right: auto;
   }
   .home {
-    padding: 20rem 5 5rem;
+    padding: 20rem 0 2rem;
   }
   .home__img {
     width: 400px;
