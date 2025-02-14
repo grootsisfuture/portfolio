@@ -374,7 +374,7 @@ img {
     margin-right: auto;
   }
   .home {
-    padding: 20rem;
+    padding: 20rem 5 5rem;
   }
   .home__img {
     width: 400px;
