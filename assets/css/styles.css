@@ -196,10 +196,10 @@ img {
 }
 
 .home__img {
-  position: center;
+  position: relative;
   right: 0;
   bottom: 0;
-  width: 200px;
+  width: 80%;
 }
 .home__blob {
   fill: var(--first-color);
