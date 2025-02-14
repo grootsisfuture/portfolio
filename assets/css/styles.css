@@ -197,7 +197,7 @@ img {
 
 .home__img {
   position: absolute;
-  right: 100%;
+  left: 0;
   bottom: 0;
   width: 260px;
 }
