@@ -202,6 +202,7 @@ img {
   width: 200px;
 }
 .home__blob {
+  position: center;
   fill: var(--first-color);
 }
 .home__blob-img {
