@@ -196,16 +196,16 @@ img {
 }
 
 .home__img {
-  position: relative;
+  position: absolute;
   right: 0;
   bottom: 0;
-  width: 80%;
+  width: 60%;
 }
 .home__blob {
   fill: var(--first-color);
 }
 .home__blob-img {
-  width: 360px;
+  width: 200px;
 }
 
 /*BUTTONS*/
